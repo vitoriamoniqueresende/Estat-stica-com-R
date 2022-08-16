@@ -1,8 +1,8 @@
 # Estatistica-com-R
-Exercícios de estatística resolvidos utilizando a linguagem R
+Exercícios de estatística resolvidos utilizando a linguagem R, através da matéria Data Science for Engineers no meu curso de Engenharia da Computação e também do curso Estatística com R, presente na plataforma Alura.
 
 Para alguns exercícios foram utilizados os dataframes disponibilizados na pasta. 
-Para utiliza-los, realizar o upload no google colaboratory
+Para utiliza-los, realizar o upload do arquivo dados.csv no google colaboratory.
 
 Ambiente
 É necessário acessar um link específico para conseguir utilizar o R no google colab
